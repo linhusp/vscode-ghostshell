@@ -1,0 +1,44 @@
+{
+    "name": "ghost-shell",
+    "version": "1.0.0",
+    "displayName": "Ghost Shell",
+    "description": "A theme base on Ghost in the Shell series's theme",
+    "author": "linhusp",
+    "license": "MIT",
+    "publisher": "linhusp",
+    "contributors": [
+        "Huynh Nguyen Ngoc Linh"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/linhusp/vscode-ghostshell"
+    },
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "shell",
+        "dark",
+        "ghost",
+        "color-theme",
+        "theme"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ghost Shell",
+                "uiTheme": "vs-dark",
+                "path": "./theme/ghost-shell.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/linhusp/vscode-ghostshell/issues",
+        "email": "linh0ltv@gmail.com"
+    },
+    "homepage": "https://github.com/linhusp/vscode-ghostshell"
+}
