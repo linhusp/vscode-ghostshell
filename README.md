@@ -7,9 +7,9 @@
 
 ## Installation
 
-1. Open **Extensions** sidebar `View -> Extensions` or press `Ctrl + Shift + X`
+1. Open **Extensions** sidebar by `View -> Extensions` or press `Ctrl/Cmd + Shift + X`
 1. Search for `Ghost Shell` and click **Install**
-1. `File -> Preferences -> Color Theme -> Ghost Shell`
+1. `File -> Preferences -> Color Theme` and choose **Ghost Shell**
 
 ## Usage
 
