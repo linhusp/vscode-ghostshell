@@ -5,6 +5,8 @@
 
 ![Screenshot](./img/demo.png)
 
+## [Changelog](./CHANGELOG.md)
+
 ## Installation
 
 1. Open **Extensions** sidebar by `View -> Extensions` or press `Ctrl/Cmd + Shift + X`
@@ -20,4 +22,5 @@ Just select the theme and chill!
 If you would like to contribute to this theme, please go to [contributing guidelines](./CONTRIBUTING.md).
 
 ## License
+
 [MIT License](./LICENSE)
