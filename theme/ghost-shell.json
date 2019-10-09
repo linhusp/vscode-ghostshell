@@ -14,7 +14,7 @@
         "list.highlightForeground": "#d5d5d5",
         "editor.background": "#252525",
         "editor.foreground": "#d5d5d5",
-        "editor.lineHighlightBackground": "#585858aa",
+        "editor.lineHighlightBackground": "#393939",
         "editorLineNumber.foreground": "#808080",
         "editorLineNumber.activeForeground": "#d5d5d5",
         "editorCursor.foreground": "#d4d4d4",
@@ -513,6 +513,14 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
+                "foreground": "#e3bbac"
+            }
+        },
+        {
+            "name": "lambda function",
+            "scope": "storage.type.function.lambda",
+            "settings": {
+                "fontStyle": "italic",
                 "foreground": "#e3bbac"
             }
         },
