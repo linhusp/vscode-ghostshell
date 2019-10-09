@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.1.1 (10-09-2019)
+
+- new palette for lambda function
+
 ## v1.1.0 (09-20-2019)
 
 - support workbench theme
