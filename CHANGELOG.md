@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v1.1.2 (10-24-2019)
+
+- new palette for python reduce()
+- new palette for python unpacking arguments
+
 ## v1.1.1 (10-09-2019)
 
 - new palette for lambda function
