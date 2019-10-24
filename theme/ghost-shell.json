@@ -472,6 +472,13 @@
             }
         },
         {
+            "name": "python's args/kwargs",
+            "scope": "keyword.operator.unpacking.arguments.python",
+            "settings": {
+                "foreground": "#e3bbab"
+            }
+        },
+        {
             "name": "keyword import",
             "scope": [
                 "keyword.other.import",
