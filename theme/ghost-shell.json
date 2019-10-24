@@ -465,6 +465,13 @@
             }
         },
         {
+            "name": "python's reduce function",
+            "scope": "variable.legacy.builtin.python",
+            "settings": {
+                "foreground": "#cba0c1"
+            }
+        },
+        {
             "name": "keyword import",
             "scope": [
                 "keyword.other.import",
