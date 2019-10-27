@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.1.3 (10-28-2019)
+
+- update screenshot
+
 ## v1.1.2 (10-24-2019)
 
 - new palette for python reduce()
