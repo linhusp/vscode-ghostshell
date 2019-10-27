@@ -3,7 +3,7 @@
 > A dark vscode theme base on Ghost in the Shell series.
 [GitHub repository](https://github.com/linhusp/vscode-ghostshell).
 
-![Screenshot](./img/demo.png)
+![Screenshot](./demo.png)
 
 ## [Changelog](./CHANGELOG.md)
 
