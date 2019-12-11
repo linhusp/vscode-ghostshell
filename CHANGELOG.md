@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.1.4 (12-12-2019)
+
+- improve the readability of comments and numbers"
+
 ## v1.1.3 (10-28-2019)
 
 - update screenshot
